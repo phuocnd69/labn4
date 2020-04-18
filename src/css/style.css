@@ -99,12 +99,12 @@ ul.header-w3_pvt li span.fa {
 /* header */
 
 /* CSS Document */
-header {
+/* header {
     position: absolute;
     z-index: 9;
     width: 100%;
     background: #f85a40;
-}
+} */
 
 .toggle,
 [id^=drop] {

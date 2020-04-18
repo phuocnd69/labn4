@@ -8,7 +8,7 @@
     display: none;
 }
 
-/* .csslider>input:nth-of-type(10):checked~ul li:first-of-type {
+.csslider>input:nth-of-type(10):checked~ul li:first-of-type {
     margin-left: -900%;
 }
 
@@ -34,7 +34,7 @@
 
 .csslider>input:nth-of-type(4):checked~ul li:first-of-type {
     margin-left: -300%;
-} */
+}
 
 .csslider>input:nth-of-type(3):checked~ul li:first-of-type {
     margin-left: -200%;
