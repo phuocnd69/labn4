@@ -28,7 +28,8 @@
               "src/css/font-awesome.css",
               "src/css/slider.css",
               "src/css/style.css",
-              "src/css/admin.scss"
+              "src/css/admin.scss",
+              "src/style.scss"
             ],
             "scripts": []
           },
