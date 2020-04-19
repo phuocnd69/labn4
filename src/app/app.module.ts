@@ -9,12 +9,11 @@ import { HomeComponent } from './home/home.component';
 import { AdminComponent } from './admin/admin.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { DashboardManagerComponent } from './dashboard-manager/dashboard-manager.component';
-import { AddDishComponent } from './add-dish/add-dish.component';
 import { DishMenuComponent } from './dish-menu/dish-menu.component';
 
 @NgModule({
   imports:      [ AppRoutingModule,BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent, HomeComponent, AdminComponent, DashboardComponent, DashboardManagerComponent, AddDishComponent, DishMenuComponent ],
+  declarations: [ AppComponent, HelloComponent, HomeComponent, AdminComponent, DashboardComponent, DashboardManagerComponent, DishMenuComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }

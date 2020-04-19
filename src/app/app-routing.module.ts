@@ -3,7 +3,6 @@ import { Routes, RouterModule } from '@angular/router';
 import { AdminComponent } from './admin/admin.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { DashboardManagerComponent } from './dashboard-manager/dashboard-manager.component';
-import { AddDishComponent } from './add-dish/add-dish.component';
 import { HomeComponent } from './home/home.component';
 import { DishMenuComponent } from './dish-menu/dish-menu.component';
 
@@ -17,7 +16,6 @@ const routes: Routes = [
     {path: 'dashboard-manager', component: DashboardManagerComponent}
   ]
   },
-  {path: 'add-dish', component: AddDishComponent},
   {path: 'menu', component: DishMenuComponent}
 
 
